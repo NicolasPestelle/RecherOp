@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++14 -Wall -Wextra    CMakeFiles/SacADos.out.dir/SacADos.o CMakeFiles/SacADos.out.dir/Objet.o CMakeFiles/SacADos.out.dir/Sac.o  -o SacADos.out -rdynamic 

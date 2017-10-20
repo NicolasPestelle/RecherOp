@@ -1,0 +1,14 @@
+class Objet{
+
+private :
+
+  int _indice;
+  int _poid;
+  int _profit;
+  
+public :
+  void Objet(int indice, int poid, int profit);
+  void getPoid();
+  void getProfit();
+
+};

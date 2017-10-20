@@ -1,0 +1,9 @@
+#include "Objet.hpp"
+#include <iostream>
+#include <vector>
+
+Sac::Sac(int poidMax) : _poidMax(poidMax){}
+
+void Sac::RempliObjetPossible(Objet o){
+  _ObjetPossible.pushback();
+}

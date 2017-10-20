@@ -1,0 +1,13 @@
+#include <vector>
+
+class Sac {
+
+private :
+  int poidMax;
+  std::vector<Objet> _ObjetPossible;
+public :
+  Sac(int poidMax);
+  void RempliObjetPossible();
+
+   
+};

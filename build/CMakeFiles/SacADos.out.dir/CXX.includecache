@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/etudiants/npestell/Documents/rechercheOp/Objet.hpp
+
+/etudiants/npestell/Documents/rechercheOp/Sac.cpp
+iostream
+-
+vector
+-
+Sac.hpp
+/etudiants/npestell/Documents/rechercheOp/Sac.hpp
+
+/etudiants/npestell/Documents/rechercheOp/Sac.hpp
+vector
+-
+Objet.hpp
+/etudiants/npestell/Documents/rechercheOp/Objet.hpp
+
